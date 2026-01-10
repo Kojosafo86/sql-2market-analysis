@@ -56,7 +56,7 @@ value of coordinated marketing efforts.
 
 ---
 
-## 📸 Query Results & Interpretation
+## Query Results & Interpretation
 
 ### Customer Value Concentration
 **Query:** Total Spend per Customer  
@@ -122,7 +122,7 @@ sql-2market-analysis/
 Data Analyst | SQL • Python • R • Power BI  
 
 🔗 GitHub: https://github.com/Kojosafo86  
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-URL  
+🔗 LinkedIn: https://www.linkedin.com/in/Kojo Safo  
 
 ---
 
