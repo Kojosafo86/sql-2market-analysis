@@ -1,6 +1,6 @@
 # 2Market Customer & Marketing Analytics (SQL)
 
-## 📌 Project Overview
+## Project Overview
 This project analyses customer behaviour and marketing campaign performance for the
 **2Market dataset** using SQL. The objective is to understand how customer value,
 demographics, geography, and advertising exposure influence campaign response and
@@ -11,7 +11,7 @@ into clear, actionable insights.
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 This analysis shows that customer behaviour and campaign effectiveness vary significantly
 across demographic, geographic, and marketing dimensions.
 
@@ -93,7 +93,7 @@ rates, confirming the effectiveness of multi-channel marketing strategies.
 
 ---
 
-## 🧠 SQL Techniques Used
+## SQL Techniques Used
 - Table creation and schema design
 - INNER JOINs
 - Aggregations and KPI calculations
@@ -126,7 +126,7 @@ Data Analyst | SQL • Python • R • Power BI
 
 ---
 
-## ⭐ Why This Project
+##  Why This Project
 This project demonstrates the ability to:
 - Use SQL to analyse real-world marketing and customer data
 - Apply advanced SQL techniques in a business context
